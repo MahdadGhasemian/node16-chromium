@@ -1,4 +1,0 @@
-note: was built and published on the vm-box user mahdad (docker desktop)
-
-docker build -t mahdad1988/node16-chromium:v1 .
-docker push mahdad1988/node16-chromium:v1
